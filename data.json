@@ -1,0 +1,1 @@
+{"books": [{"title": "1984", "author": "Orwell", "year": 1949, "genre": "\u0414\u0438\u0441\u0442\u043e\u043f\u0438\u044f", "copies": 2}], "readers": [{"first_name": "\u0418\u043b\u043b\u0430\u0440\u0438\u043e\u043d", "last_name": "\u0422\u0438\u0440\u0438\u043a\u043e\u0432", "card_number": "0", "borrowed_books": [{"title": "1984", "borrow_date": "2024-12-18T09:19:02.291041"}]}]}
