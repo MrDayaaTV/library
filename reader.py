@@ -4,4 +4,4 @@ class Reader:  # Ввод данных о добавляемом читател�
         self.last_name = last_name  # Фамилия
         self.card_number = card_number  # Читательский номер
 
-        self.borrowed_books = borrowed_books or []  # Хранит список кортежей (Название книги, Дата выдачи)
+        self.borrowed_books = borrowed_books or []  # Список взятых книг
