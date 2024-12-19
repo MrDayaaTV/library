@@ -1,0 +1,13 @@
+{"books": [{
+            "title": "Witcher", 
+            "author": "Kasim", 
+            "year": 2005, 
+            "genre": "Horror", 
+            "copies": 99}], 
+  "readers": [{
+                "first_name": "Jake", 
+                "last_name": "Villson", 
+                "card_number": "11", 
+    "borrowed_books": [{
+                        "title": "Witcher", 
+                        "borrow_date": "2024-12-19T23:51:13.674353"}]}]}
